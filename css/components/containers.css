@@ -1,0 +1,12 @@
+.outer-container {
+
+}
+
+.inner-container {
+  margin: 0 auto;
+}
+
+.card-container {
+  display: flex;
+  margin: 0 0 32px 0;
+}
