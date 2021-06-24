@@ -31,7 +31,8 @@ p {
 /* Custom design below! */
 
 .banner {
-  background-image: linear-gradient(to bottom, rgba(251, 230, 218, 0.2), rgba(234, 118, 54, 0.7)), url(../images/dogs.jpg);
+  background-image: linear-gradient(to bottom, rgba(110, 48, 12, 0.4), rgba(37, 16, 4, 0.95)), url(../images/dogs.jpg);
+  background-size: cover;
   height: 400px;
   display: flex;
   align-items: center;
